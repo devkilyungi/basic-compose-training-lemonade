@@ -29,6 +29,6 @@ empty glass to start again.
 - After they tap the empty glass, they see the lemon tree and can begin the process again. 
 More lemonade please!
 
-Screenshots:
+Screenshot:
 -----------
 ![Application Flow Overview](overview.png)
